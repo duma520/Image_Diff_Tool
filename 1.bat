@@ -1,0 +1,2 @@
+cls
+python Image_Diff_Tool.py

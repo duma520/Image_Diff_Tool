@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --windowed  --icon=icon.ico --add-data "icon.ico;." Image_Diff_Tool.py
